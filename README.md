@@ -21,6 +21,8 @@ Once you are done, submit a Pull Request to include your information in the orig
 
 # Students
 
+- [**@ryancys1234**](https://github.com/ryancys1234) I am Ryan. I like statistics (if I understand it), not failing, being organized, etc. Unfortunately, I am not familiar with Animal Crossing.
+
 # Teaching Team
 
 - [**@meredithfranklin**](https://github.com/meredithfranklin)
