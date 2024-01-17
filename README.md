@@ -22,6 +22,9 @@ Once you are done, submit a Pull Request to include your information in the orig
 # Students
 
 - [**@jenydu**](https://github.com/jenydu) My name is Jenny. I am a UofT student.
+
+- [**@KyleVav**](https://github.com/KyleVav) My name is Kyle. I like making espresso and cooking.
+
 - [**@jessicayanwang**](https://github.com/jessicayanwang/) My name is Jessica and I like painting.
 
 [**@masonhyz**](https://github.com/masonhyz) I like playing soccer. My favourite soccer player is Messi 🇦🇷. <img src="https://www.si.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_641/MTY4MTAyNTc1MDYwMzYyNTEz/1992-94-lionel-messi-childhoodjpg.webp" alt="poppy" width="200px">
@@ -38,6 +41,7 @@ My Cat Leo:
 
 My Dog Saber:
 <img src="https://github.com/Cathypei/JSC370/blob/main/IMG_7259.png" alt="My Dog" width="200" height="250">
+
 
 
 # Teaching Team
