@@ -30,6 +30,8 @@ Once you are done, submit a Pull Request to include your information in the orig
 
 - [**@JakubGierus**](https://github.com/jakub-gierus) I am very interested in steam tunnels. Please let me know if you know how or where to access the steam or maintenance tunnels under the University.
 
+- [**@angelaaajing**](https://github.com/angelaaajing) Hi, I am Jing Yu. I love music!!!
+
 # Teaching Team
 
 - [**@meredithfranklin**](https://github.com/meredithfranklin)
