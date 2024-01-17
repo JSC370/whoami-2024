@@ -20,10 +20,8 @@ This is the code I used for writing that line:
 Once you are done, submit a Pull Request to include your information in the original repository.
 
 # Students
-- [**@jenydu**](https://github.com/jenydu) My name is Jenny. I am a UofT student.
 
-
-[**@masonhyz**](https://github.com/masonhyz) I like playing soccer. My favourite soccer player is Messi 🇦🇷. <img src="https://www.si.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_641/MTY4MTAyNTc1MDYwMzYyNTEz/1992-94-lionel-messi-childhoodjpg.webp" alt="poppy" width="200px">
+- [**@xiangtgao**](https://github.com/xiangtgao) I am Xiang Gao, a final-year undergraduate at the University of Toronto.
 
 # Teaching Team
 
