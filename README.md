@@ -20,6 +20,8 @@ This is the code I used for writing that line:
 Once you are done, submit a Pull Request to include your information in the original repository.
 
 # Students
+
+- [**@jchenDDD**](https://github.com/jchenDDD) Hi, I'm John. I love spaghetti and posting my personal information on the internet. No one is reading this.
 - [**@jenydu**](https://github.com/jenydu) My name is Jenny. I am a UofT student.
 
 
