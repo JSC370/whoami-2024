@@ -20,6 +20,7 @@ This is the code I used for writing that line:
 Once you are done, submit a Pull Request to include your information in the original repository.
 
 # Students
+[**@amanetakeuchi**](https://github.com/amanetakeuchi) My hobby is painting. <img src="https://www.pictoclub.com/wp-content/uploads/2021/09/painting-brushes-scaled.jpg">
 
 # Teaching Team
 
