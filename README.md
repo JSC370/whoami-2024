@@ -21,6 +21,8 @@ Once you are done, submit a Pull Request to include your information in the orig
 
 # Students
 
+[**@xgao28**](https://github.com/xgao28) Hi! I'm Xinxiang. I like cooking and playing Genshin Impact. 😯
+
 # Teaching Team
 
 - [**@meredithfranklin**](https://github.com/meredithfranklin)
