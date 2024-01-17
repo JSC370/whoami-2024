@@ -21,6 +21,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 
 # Students
 - [**@jenydu**](https://github.com/jenydu) My name is Jenny. I am a UofT student.
+- [**@KyleVav**](https://github.com/KyleVav) My name is Kyle. I like making espresso and cooking.
 
 
 # Teaching Team
