@@ -20,6 +20,7 @@ This is the code I used for writing that line:
 Once you are done, submit a Pull Request to include your information in the original repository.
 
 # Students
+[**@Jennifer-xxx**](https://github.com/Jennifer-xxx) I am Yufei Liu. I love to play otome games and I'm currently looking forward to see \<Far Beyond the World> and <Love and deep space\>, which are going to come out tomorrow!
 
 # Teaching Team
 
