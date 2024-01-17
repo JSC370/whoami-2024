@@ -20,10 +20,15 @@ This is the code I used for writing that line:
 Once you are done, submit a Pull Request to include your information in the original repository.
 
 # Students
+[**@jenydu**](https://github.com/jenydu) My name is Jenny. I am a UofT student.
+
+[**@masonhyz**](https://github.com/masonhyz) I like playing soccer. My favourite soccer player is Messi 🇦🇷. <img src="https://www.si.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_641/MTY4MTAyNTc1MDYwMzYyNTEz/1992-94-lionel-messi-childhoodjpg.webp" alt="poppy" width="200px">
+
+[**@thmcheung**]() You have big eyes small face I like, what's your wechat? <img src="/myself.jpg" alt="marcus" width ="200px">
+
 [**@Jennifer-xxx**](https://github.com/Jennifer-xxx) I am Yufei Liu. I love to play otome games and I'm currently looking forward to see \<Far Beyond the World> and <Love and deep space\>, which are going to come out tomorrow!
 
 # Teaching Team
 
 - [**@meredithfranklin**](https://github.com/meredithfranklin)
 - [**@jenydu**](https://github.com/jenydu) I like Animal Crossing. My favourite villager is Poppy 🍂🐿️. <img src="https://preview.redd.it/f79f0cv1o7j51.jpg?auto=webp&s=1e572edf80d0eba0c35c77c3c81231d9e626d366" alt="poppy" width="200px">
-
