@@ -27,6 +27,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 
 [**@thmcheung**]() You have big eyes small face I like, what's your wechat? <img src="/myself.jpg" alt="marcus" width ="200px">
 
+[**@AdK0101**](https://github.com/AdK0101/) I'm Aditya. I like reading novels I guess. 
 
 # Teaching Team
 
