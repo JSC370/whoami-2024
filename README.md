@@ -20,6 +20,7 @@ This is the code I used for writing that line:
 Once you are done, submit a Pull Request to include your information in the original repository.
 
 # Students
+[**@Ekconick**](https://github.com/Ekconick) My name is Yuxuan Wang. I like this course.
 
 # Teaching Team
 
