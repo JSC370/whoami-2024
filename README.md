@@ -21,6 +21,10 @@ Once you are done, submit a Pull Request to include your information in the orig
 
 # Students
 
+- [**@jenydu**](https://github.com/jenydu) My name is Jenny. I am a UofT student.
+
+- [**@jchenDDD**](https://github.com/jchenDDD) Hi, I'm John. I love spaghetti and posting my personal information on the internet. No one is reading this.
+
 
 - [**@ryancys1234**](https://github.com/ryancys1234) I am Ryan. I like statistics (if I understand it), not failing, being organized, etc. Unfortunately, I am not familiar with Animal Crossing.
 
@@ -31,7 +35,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 
 [**@Ekconick**](https://github.com/Ekconick) My name is Yuxuan Wang. I like this course.
 
-- [**@jenydu**](https://github.com/jenydu) My name is Jenny. I am a UofT student.
+
 
 - [**@KyleVav**](https://github.com/KyleVav) My name is Kyle. I like making espresso and cooking.
 
