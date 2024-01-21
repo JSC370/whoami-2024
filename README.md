@@ -69,6 +69,8 @@ My Dog Saber:
 
 
 
+[**@Vantion24601**](https://github.com/Vantion24601) My name is Elaine Dai <img src="https://avatars.githubusercontent.com/u/56313368?s=400&u=10633cd261385e72836b83ae6e712a33e939b02b&v=4" alt="rainbowhorse" width="200px">
+
 # Teaching Team
 
 - [**@meredithfranklin**](https://github.com/meredithfranklin)
