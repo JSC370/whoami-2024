@@ -20,6 +20,9 @@ This is the code I used for writing that line:
 Once you are done, submit a Pull Request to include your information in the original repository.
 
 # Students
+
+[**@amanetakeuchi**](https://github.com/amanetakeuchi) My hobby is painting. <img src="https://www.pictoclub.com/wp-content/uploads/2021/09/painting-brushes-scaled.jpg">
+
 - [**@KaiwenYangUT**](https://github.com/KaiwenYangUT) My name is Kaiwen Yang, and most of my friends call me Kevin. I like 
 watching action movies. 
 
@@ -70,6 +73,7 @@ My Dog Saber:
 
 
 [**@Vantion24601**](https://github.com/Vantion24601) My name is Elaine Dai <img src="https://avatars.githubusercontent.com/u/56313368?s=400&u=10633cd261385e72836b83ae6e712a33e939b02b&v=4" alt="rainbowhorse" width="200px">
+
 
 # Teaching Team
 
