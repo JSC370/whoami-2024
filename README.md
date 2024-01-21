@@ -21,6 +21,9 @@ Once you are done, submit a Pull Request to include your information in the orig
 
 # Students
 
+
+[**@xgao28**](https://github.com/xgao28) Hi! I'm Xinxiang. I like cooking and playing Genshin Impact. 😯
+
 [**@inorrr**](https://github.com/inorrr) Hi There my name is Yinuo Zhao and it's pronounced "Yee-No". I'm top 1 carrot hater.
 
 [**@Ekconick**](https://github.com/Ekconick) My name is Yuxuan Wang. I like this course.
@@ -51,7 +54,6 @@ My Dog Saber:
 <img src="https://github.com/Cathypei/JSC370/blob/main/IMG_7259.png" alt="My Dog" width="200" height="250">
 
 - [**@tadanokaida**](https://github.com/tadanokaida) I like playing guitar but I'm not good at it. Yuuri is my idol. <img src="https://kprofiles.com/wp-content/uploads/2022/12/yuuri-billboard-japan-2022-billboard-1548-900x595.webp" alt="yuuri" width="200px">
-
 
 
 # Teaching Team
