@@ -21,6 +21,8 @@ Once you are done, submit a Pull Request to include your information in the orig
 
 # Students
 
+[**@jenydu**](https://github.com/jenydu) My name is Jenny. I am a UofT student.
+
 
 - [**@xiangtgao**](https://github.com/xiangtgao) I am Xiang Gao, a final-year undergraduate at the University of Toronto.
 
@@ -50,11 +52,13 @@ watching action movies.
 
 - [**@jessicayanwang**](https://github.com/jessicayanwang/) My name is Jessica and I like painting.
 
+
 [**@masonhyz**](https://github.com/masonhyz) I like playing soccer. My favourite soccer player is Messi 🇦🇷. <img src="https://www.si.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_641/MTY4MTAyNTc1MDYwMzYyNTEz/1992-94-lionel-messi-childhoodjpg.webp" alt="poppy" width="200px">
 
 
 [**@thmcheung**]() You have big eyes small face I like, what's your wechat? <img src="/myself.jpg" alt="marcus" width ="200px">
 
+[**@Jennifer-xxx**](https://github.com/Jennifer-xxx) I am Yufei Liu. I love to play otome games and I'm currently looking forward to see \<Far Beyond the World> and <Love and deep space\>, which are going to come out tomorrow!
 
 [**@AdK0101**](https://github.com/AdK0101/) I'm Aditya. I like reading novels I guess. 
 
