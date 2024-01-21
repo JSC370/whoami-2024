@@ -31,6 +31,7 @@ Once you are done, submit a Pull Request to include your information in the orig
 
 [**@thmcheung**]() You have big eyes small face I like, what's your wechat? <img src="/myself.jpg" alt="marcus" width ="200px">
 
+[**@3th4novo**]() I like soccer.
 
 - [**@JakubGierus**](https://github.com/jakub-gierus) I am very interested in steam tunnels. Please let me know if you know how or where to access the steam or maintenance tunnels under the University.
 
@@ -41,7 +42,6 @@ My Cat Leo:
 
 My Dog Saber:
 <img src="https://github.com/Cathypei/JSC370/blob/main/IMG_7259.png" alt="My Dog" width="200" height="250">
-
 
 
 # Teaching Team
