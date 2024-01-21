@@ -20,6 +20,9 @@ This is the code I used for writing that line:
 Once you are done, submit a Pull Request to include your information in the original repository.
 
 # Students
+
+[**@inorrr**](https://github.com/inorrr) Hi There my name is Yinuo Zhao and it's pronounced "Yee-No". I'm top 1 carrot hater.
+
 [**@Ekconick**](https://github.com/Ekconick) My name is Yuxuan Wang. I like this course.
 
 - [**@jenydu**](https://github.com/jenydu) My name is Jenny. I am a UofT student.
